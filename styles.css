@@ -1,0 +1,108 @@
+body {
+    background-color: rgba(30, 30, 102, 0.74)
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+.intro {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    margin: 20px;
+    color: white;
+    border: 3px solid white;
+    border-radius: 45px;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+    text-align: center;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: white;
+    margin: auto;
+    padding: auto;
+    border: 3px solid white;
+    border-radius: 45px;
+    background-color: rgba(255, 255, 255, 0.2);
+    width: 35%;
+    background-color: rgb(127, 144, 255);
+}
+li {
+    display: inline-block;
+    margin-right: 10px;
+}
+a:link {
+    color: aquamarine;
+}
+a:visited {
+    color: lightblue;
+}
+.stars {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border: 3px solid white;
+    border-radius: 45px;
+    float: center;
+    margin: 35px;
+}
+.orion {
+    border: 3px solid white;
+    border-radius: 45px;
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+}
+.orionimg {
+    display: inline-block;
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 300px;
+    border: 3px solid white;
+    border-radius: 45px;
+    float: center;
+    margin: 75px;
+}
+.dipper {
+    border: 3px solid white;
+    border-radius: 45px;
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+}  
+.dipperimg {
+    display: inline-block;
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 300px;
+    border: 3px solid white;
+    border-radius: 45px;
+    float: center;
+    margin: 75px;
+}
+.Cass {
+    border: 3px solid white;
+    border-radius: 45px;
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+}
+.cassimg {
+    display: inline-block;
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 300px;
+    border: 3px solid white;
+    border-radius: 45px;
+    float: center;
+    margin: 30px;
+}
